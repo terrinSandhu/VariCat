@@ -1,0 +1,8 @@
+VarName,VarDescription, Category, SubCategory, SubCategory2, Instrumentation, VarDataType, VarData
+A, description, cat1, sub1, NULL, NULL, INT, NULL
+B, description, cat1, sub2, NULL, NULL, INT, NULL
+C, description, cat2, sub3, NULL, NULL, INT, NULL
+D, description, cat2, sub3, NULL, NULL, INT, NULL
+E, description, cat2, sub4, NULL, NULL, INT, NULL
+F, description, cat3, sub5, NULL, NULL, INT, NULL
+G, description, cat3, sub5, NULL, NULL, INT, NULL

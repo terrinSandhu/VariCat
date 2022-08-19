@@ -1,0 +1,2 @@
+VarName,VarDescription,Category,SubCategory,SubCategory2,Instrumentation,VarDataType,VarData
+var1, d1,Demographics,Age at visit,0,"Structured Clinical Interview for Diagnosis (SCID), Other",n,n
