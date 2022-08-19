@@ -1,5 +1,7 @@
 Running:
 
+*Requires pandas and numpy*
+
 
 *After downloading and extraxting the zip file*
 
